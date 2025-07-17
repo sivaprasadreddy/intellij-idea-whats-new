@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="WorkspaceSettings">
+        <project name="jspecify-demo" path="$PROJECT_DIR$/jspecify-demo">
+            <vcs id="Git" remoteUrl="https://github.com/sivaprasadreddy/jspecify-demo.git" />
+        </project>
+        <project name="spring-modular-monolith" path="$PROJECT_DIR$/spring-modular-monolith">
+            <vcs id="Git" remoteUrl="https://github.com/sivaprasadreddy/spring-modular-monolith.git" />
+        </project>
+        <project name="notification-service" path="$PROJECT_DIR$/notification-service">
+            <vcs id="Git" remoteUrl="https://github.com/feature-tracker/notification-service.git" />
+        </project>
+        <option name="workspace" value="true" />
+    </component>
+</project>
