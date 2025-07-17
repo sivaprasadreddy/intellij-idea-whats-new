@@ -7,6 +7,9 @@
         <project name="spring-modular-monolith" path="$PROJECT_DIR$/spring-modular-monolith">
             <vcs id="Git" remoteUrl="https://github.com/sivaprasadreddy/spring-modular-monolith.git" />
         </project>
+        <project name="spring-debugger" path="$PROJECT_DIR$/spring-debugger">
+            <vcs id="Git" remoteUrl="https://github.com/marcobehler/spring-debugger.git" />
+        </project>
         <option name="workspace" value="true" />
     </component>
 </project>
